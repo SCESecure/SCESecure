@@ -5,6 +5,7 @@
 
 ## 주요 프로그램  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCESecure&repo=S.Util&theme=dark&hide_border=true)](https://github.com/SCESecure/S.Util)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCESecure&repo=S.I-School_Information-&theme=dark&hide_border=true)](https://github.com/SCESecure/S.I-School_Information-)
 ## 사용하는 언어  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SCESecure&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/SCESecure)
 
