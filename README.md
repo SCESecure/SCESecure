@@ -3,6 +3,8 @@
 * I'm a student who tries to perform the goal if a specific goal exists.
 * Originate : The nickname means knowing the Programming Languages' and Program's operating way, finding lots of security weak points, and then improving them.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=SCESecure)](https://solved.ac/scesecure)
+
 ## Main Programs  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCESecure&repo=S.Util&theme=dark&hide_border=true)](https://github.com/SCESecure/S.Util)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCESecure&repo=S.I-School_Information-&theme=dark&hide_border=true)](https://github.com/SCESecure/S.I-School_Information-)
