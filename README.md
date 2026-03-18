@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Secure%20-%20SCESecure&fontSize=85&animation=fadeIn)
+
 # Secure / SCESecure (Kiwon Kim)
 
 * I'm a student who tries to perform the goal if a specific goal exists.
