@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Secure%20-%20SCESecure&fontSize=85&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Secure%20-%20SCESecure&fontSize=85&animation=fadeIn" />
+</p>
 
 # Secure / SCESecure (Kiwon Kim)
 
