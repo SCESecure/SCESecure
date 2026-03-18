@@ -74,4 +74,5 @@
   <li>ITQ PowerPoint(A), 한글(B), Excel(A)</a></li>
   <li>ICDL Start Certificate(Module 2, 3, 6)</li>
   <li>CDT 2급</li>
+  <li>MOS PowerPoint 2016 Core, Excel 2016 Expert</li>
 </ul>
